@@ -20,7 +20,7 @@
 ## Project Overview
 
 **Research Question:**
-Can a computer look at the gene activity levels of a leukemia patient and correctly identify whether they have ALL or AML?"
+> "Can a computer look at the gene activity levels of a leukemia patient and correctly identify whether they have ALL or AML?"
 
 This project integrates two data types:
 - **Gene expression data** (~7,000 gene measurements per patient) — the omics layer
@@ -49,11 +49,54 @@ This project integrates two data types:
 
 ---
 
+## Results
+
+### 1. <!-- Add subtitle -->
+
+<!-- Add notes -->
+
+<p align="center">
+  <img src="results/figure1.png" width="80%" alt="Figure 1"/>
+</p>
+
+---
+
+### 2. <!-- Add subtitle -->
+
+<!-- Add notes -->
+
+<p align="center">
+  <img src="results/figure2.png" width="80%" alt="Figure 2"/>
+</p>
+
+---
+
+### 3. <!-- Add subtitle -->
+
+<!-- Add notes -->
+
+<p align="center">
+  <img src="results/figure3.png" width="80%" alt="Figure 3"/>
+</p>
+
+---
+
+### 4. <!-- Add subtitle -->
+
+<!-- Add notes -->
+
+<p align="center">
+  <img src="results/figure4.png" width="80%" alt="Figure 4"/>
+</p>
+
+---
+
 ## Repository Structure
 
 ```
 ├── assets/                # Images and graphics (banner.png etc.)
 ├── data/                  # Raw data downloaded via Kaggle API
+├── results/               # Output figures and plots
 ├── notebook.ipynb         # Main Jupyter Notebook (analysis + report)
 ├── README.md
 └── requirements.txt       # Python dependencies
