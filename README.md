@@ -20,7 +20,7 @@
 ## Project Overview
 
 **Research Question:**
-> Can we classify ALL vs AML leukemia subtypes using gene expression data, and which genes are most informative for distinguishing them?
+Can a computer look at the gene activity levels of a leukemia patient and correctly identify whether they have ALL or AML?"
 
 This project integrates two data types:
 - **Gene expression data** (~7,000 gene measurements per patient) — the omics layer
