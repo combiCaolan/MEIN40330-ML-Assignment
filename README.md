@@ -2,7 +2,7 @@
 ### Machine Learning Mini-Project
 
 <p align="center">
-  <img src="https://www.ucd.ie/fileupload/ucd-logo.png" width="48%" alt="Project graphic"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvS6gkhDa4pLpm7frcx_RfjOtN-MGH4Pg2A&s" width="18%" alt="Project graphic"/>
   &nbsp;
   <img src="https://www.kaggle.com/static/images/site-logo.png" width="48%" alt="Kaggle"/>
 </p>
